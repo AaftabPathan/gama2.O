@@ -14,3 +14,5 @@ SMTP, or Simple Mail Transfer Protocol,
   It acts as a delivery service,
    enabling email clients and servers to exchange messages.
     SMTP focuses on the transmission of emails from sender to recipient, and it doesn't handle the retrieval of emails. 
+
+    this is the basic computer networking
