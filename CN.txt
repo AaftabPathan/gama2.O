@@ -8,3 +8,9 @@ There are 7 layers in the OSI Model and each layer has its specific role in hand
 5.Session Layer
 6.Presentation Layer
 7.Application Layer
+
+SMTP, or Simple Mail Transfer Protocol,
+ is the standard protocol for sending email messages over the internet.
+  It acts as a delivery service,
+   enabling email clients and servers to exchange messages.
+    SMTP focuses on the transmission of emails from sender to recipient, and it doesn't handle the retrieval of emails. 
