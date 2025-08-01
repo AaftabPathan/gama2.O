@@ -20,3 +20,8 @@ SMTP, or Simple Mail Transfer Protocol,
     this is my file
 HEllo Brother my name is Aaftab Pathan And I am from shirdi maharashtra i have 
 complited my bsc computer science and i am recently shifted in hyderabad telangana
+
+
+i am a future devops engineer
+ and i am currently learning about the basic of computer networking 
+ and i am very excited to learn about more it.
